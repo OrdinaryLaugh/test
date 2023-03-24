@@ -1,4 +1,3 @@
-@[TOC]
 # 为什么要学习容器化技术
 ## 人们遇到了什么问题
 在很久很久以前，人们部署服务的时候，一台物理机上只能同时运行一个操作系统，大家部署服务的时候会遇到以下几个问题
@@ -592,14 +591,3 @@ networks:
 ```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/dcb83d0cd3c24e66aea00d693e2fa68a.png)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b3cb99301eb449bcb5905aa707163c99.png)
-# 参考文档：
-https://developer.aliyun.com/article/768343
-https://blog.csdn.net/weixin_46618592/article/details/126555359
-https://blog.51cto.com/wzlinux/2044797
-https://blog.csdn.net/m0_52884709/article/details/127743854
-https://blog.csdn.net/q908544703/article/details/126226073
-https://www.jianshu.com/p/cc71aa34a67e
-https://blog.csdn.net/weixin_71483812/article/details/127388903
-https://blog.csdn.net/Gong_yz/article/details/129360646
-https://blog.csdn.net/qq_34556414/article/details/120188653
-https://www.jb51.net/article/260534.htm
